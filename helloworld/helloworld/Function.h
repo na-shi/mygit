@@ -8,5 +8,6 @@ public:
 
 private:
 	int x, y;
+	int c;
 };
 
